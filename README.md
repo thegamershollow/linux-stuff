@@ -1,6 +1,6 @@
 # linux-stuff
 
-This is a collection of scripts and other stuff for my chromebook running linux.
+This is a collection of scripts and other stuff for my macbook running linux.
 
 ### Why
 

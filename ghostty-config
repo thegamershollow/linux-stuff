@@ -1,0 +1,25 @@
+#~---~Ghostty Config~---~#
+
+# Font Config
+
+font-family = JetBrains Mono
+font-size = 11
+
+# Theme Config
+
+theme = srcery
+cursor-style = underline
+cursor-style-blink = true
+shell-integration-features = no-cursor
+
+# Window Config
+window-subtitle = working-directory
+window-theme = ghostty
+window-height = 24
+window-width = 80
+resize-overlay-position = bottom-right
+
+# Other Config Settings
+
+bold-is-bright = true
+

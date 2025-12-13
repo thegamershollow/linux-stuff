@@ -7,16 +7,15 @@ font-size = 11
 
 # Theme Config
 
-theme = srcery
+theme = Srcery
 cursor-style = underline
 cursor-style-blink = true
 shell-integration-features = no-cursor
 
 # Window Config
 window-subtitle = working-directory
-window-theme = ghostty
-window-height = 24
-window-width = 80
+window-height = 31
+window-width = 90
 resize-overlay-position = bottom-right
 
 # Other Config Settings

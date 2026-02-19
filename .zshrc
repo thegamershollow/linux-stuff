@@ -65,3 +65,7 @@ source $(dirname $(gem which colorls))/tab_complete.sh
 
 # fzf shell intergration
 eval "$(fzf --zsh)"
+
+# Ruby Stuff
+export GEM_HOME="$(gem env user_gemhome)"
+export "PATH=$PATH:$GEM_HOME/bin"
